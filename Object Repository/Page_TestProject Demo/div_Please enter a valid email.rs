@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please enter a valid email</name>
+   <tag></tag>
+   <elementGuidId>baded07c-7e4c-4289-8885-3473884ee8a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pageProfile']/form/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9683ea88-531a-4b11-93ae-8647906401ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>invalid-feedback</value>
+      <webElementGuid>6b284715-a99d-487e-a8fb-4827d595384c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter a valid email</value>
+      <webElementGuid>5237fc3a-be8a-4553-a885-f7e092dfe4f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pageProfile&quot;)/form[@class=&quot;needs-validation was-validated&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;tp-input-wrapper&quot;]/div[@class=&quot;invalid-feedback&quot;]</value>
+      <webElementGuid>d0ea4f28-d7dc-44a0-b746-805947148880</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pageProfile']/form/div[3]/div/div</value>
+      <webElementGuid>825c2b6f-8f9e-47fe-b4c2-16da1eca4e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::div[2]</value>
+      <webElementGuid>7b8badb4-3c65-486a-8499-eedf6a1e17be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter your address'])[1]/following::div[3]</value>
+      <webElementGuid>c07a33d7-a917-46f8-8ff4-144328d60452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone:'])[1]/preceding::div[1]</value>
+      <webElementGuid>23432b87-762a-4290-9646-62c55181a9e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter a valid phone number'])[1]/preceding::div[1]</value>
+      <webElementGuid>7a9debd4-6bc8-4f00-ae92-064a5ee69e06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter a valid email']/parent::*</value>
+      <webElementGuid>446e6b38-8399-46cc-af28-166bb0fbb7d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>9949ad8f-24b3-47a9-9743-b7976a6c72ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please enter a valid email' or . = 'Please enter a valid email')]</value>
+      <webElementGuid>f755b5f0-0401-4ea0-86b7-cdd31f0e00cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

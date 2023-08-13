@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password is invalid</name>
+   <tag></tag>
+   <elementGuidId>58af4993-e159-4a44-ad82-1f732ffc795f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pageLogin']/form/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8c7baf27-51e0-4643-ae17-80698df34970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>invalid-feedback</value>
+      <webElementGuid>63a6ec10-ea62-4299-8a30-9f20f4519fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password is invalid</value>
+      <webElementGuid>16fbbad7-82aa-4670-a11a-b0462703be58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pageLogin&quot;)/form[@class=&quot;needs-validation&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;tp-input-wrapper&quot;]/div[@class=&quot;invalid-feedback&quot;]</value>
+      <webElementGuid>cef3f365-28ce-4d70-983a-15037d84e1e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pageLogin']/form/div[2]/div/div[2]</value>
+      <webElementGuid>de25dc63-a99b-4c30-bed1-a1a3b7ff86bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hint: password is 12345'])[1]/following::div[1]</value>
+      <webElementGuid>7c3f0a51-1955-4cdc-857b-4e26b9fefecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password:'])[1]/following::div[3]</value>
+      <webElementGuid>fd0a22fb-5896-4b09-89bf-ad397b0b71c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::div[1]</value>
+      <webElementGuid>f7aaff95-577d-4807-9ffa-8688568aaf80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestProject Example page'])[2]/preceding::div[2]</value>
+      <webElementGuid>0b17e95a-9a10-4104-bafa-fede30448191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password is invalid']/parent::*</value>
+      <webElementGuid>4993ab92-db5e-466c-b7a8-760c83b20d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>727ebb94-8778-4cd6-91a9-a5ba92f202c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Password is invalid' or . = 'Password is invalid')]</value>
+      <webElementGuid>0d96ee3f-a0fc-4c8e-acf3-a10beaac4bcd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
